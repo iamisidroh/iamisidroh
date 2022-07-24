@@ -9,9 +9,9 @@ Front-End Developer
 * 🧠  I'm learning React ⚛️
 
 <a href="https://www.twitter.com/iamjorginho" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/iamjorginho?logo=twitter&style=for-the-badge&color=6366f1&labelColor=181824"
+src="https://img.shields.io/twitter/follow/iamjorginho?logo=twitter&style=for-the-badge&color=6366f1&labelColor=171717"
 /></a><a href="https://www.github.com/iamjorginho" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/iamjorginho?logo=github&style=for-the-badge&color=6366f1&labelColor=181824" /></a>
+src="https://img.shields.io/github/followers/iamjorginho?logo=github&style=for-the-badge&color=6366f1&labelColor=171717" /></a>
 
 ### Skills
 
@@ -33,6 +33,6 @@ src="https://img.shields.io/github/followers/iamjorginho?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/iamjorginho"><img src="https://github-readme-stats.vercel.app/api?username=iamjorginho&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="iamjorginho's GitHub stats" /></a>
+<a href="http://www.github.com/iamjorginho"><img src="https://github-readme-stats.vercel.app/api?username=iamjorginho&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&show_icons=true" alt="iamjorginho's GitHub stats" /></a>
 
-<a href="https://github.com/iamjorginho" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjorginho&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/iamjorginho" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjorginho&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
